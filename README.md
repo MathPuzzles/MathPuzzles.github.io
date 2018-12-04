@@ -1,2 +1,1 @@
-#https://mathpuzzles.github.io/.
-4t
+https://mathpuzzles.github.io/
